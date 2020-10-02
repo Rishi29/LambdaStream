@@ -1,4 +1,4 @@
-package practice;
+package com.comparesort;
 
 import java.util.Arrays;
 import java.util.Comparator;

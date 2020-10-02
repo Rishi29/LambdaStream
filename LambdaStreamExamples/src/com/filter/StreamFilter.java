@@ -1,4 +1,4 @@
-package practice;
+package com.filter;
 
 import java.util.Arrays;
 import java.util.List;
