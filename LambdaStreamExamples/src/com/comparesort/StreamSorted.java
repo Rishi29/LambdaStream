@@ -25,9 +25,9 @@ public class StreamSorted {
 	}
 
 	// sorting in Reverse order
-	
+
 	private static void sortReverseOrder(List<String> myList) {
-		
+
 		Stream<String> sortReverseOrder = myList.stream().sorted(Comparator.reverseOrder());
 		System.out.println("sorting in Reverse order");
 		sortReverseOrder.forEach(System.out::println);
